@@ -1,0 +1,11 @@
+Source: https://www.youtube.com/watch?v=G3e-cpL7ofc
+
+7. Images and text boxes
+8. CSS display property
+9. The div element (-->)
+10. Nested Layouts Technique
+11. CSS Grid
+12. Flexbox
+13. Nested Flexbox
+14. CSS Position: Keep the header at the top of the page
+15. Position absolute and relative
